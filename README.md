@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sreenivas</h1>
-- 🔭  AppSec & DevSecOps Transition Portfolio 2+ years Java & Windchill Bulk Migrator experience | Actively learning Application Security.**
+- 🔭  AppSec & DevSecOps Transition Portfolio **2+ years Java & Windchill Bulk Migrator experience.**
 
-- 🌱 I’m currently learning **web Security OWASP TOP 10**
+- 🌱 I’m  acvtively **web Security OWASP TOP 10 and  learning Application Security**
 
 - 👯 I’m looking to collaborate on **open source projects.** 
 
