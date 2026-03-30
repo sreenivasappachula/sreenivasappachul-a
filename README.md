@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sreenivas</h1>
-- 🔭 I’m currently working on **building my profile as a Developer and Web Security Reseacher.**
+- 🔭  AppSec & DevSecOps Transition Portfolio 2+ years Java & Windchill Bulk Migrator experience | Actively learning Application Security.**
 
 - 🌱 I’m currently learning **web Security OWASP TOP 10**
 
